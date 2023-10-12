@@ -1,0 +1,52 @@
+.container{
+    width: 1200px;
+    background-color: red;
+}
+
+.h{
+    height: 90px;
+    text-align: center;
+   
+    background-color: yellowgreen;
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.n{
+    height:80px;
+    text-align: center;
+    background-color: cyan;
+    color: white;
+    padding-top: 30px;
+    font-size: 30px;
+}
+
+.s{
+    height:200px;
+  text-align: center;
+  display: flex;
+  color: white;
+  font-size: 30px;
+}
+.f{
+    height:100px;
+   text-align: center;
+    background-color:darkgoldenrod;
+    margin-top: 19px;
+    color: white;
+    font-size: 30px;
+}
+.i{
+    width: 350px;
+    height: 220px;
+    background-color: chocolate;
+    text-align: center;
+    color: white;
+}
+.c{
+    width: 850px;
+    height: 220px;
+    background-color: darkblue;
+    color: white;
+}
